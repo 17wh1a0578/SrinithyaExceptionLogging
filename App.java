@@ -1,9 +1,4 @@
 package epam.Exception_logging;
-
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
